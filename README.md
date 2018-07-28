@@ -1,1 +1,1 @@
-# testingslot
+# testingslot for Azure WebApp test
